@@ -1,16 +1,21 @@
-### Hi there 👋
+Welcome, wonderful creature,to my humble tavern in this giant kingdom that is github.
 
-<!--
-**LeydenJar/LeydenJar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a teenager, I was going to be a rockstar. But when my great plan failed, I've decided to transition into software development.
+This one is working out.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[My Portfolio Website](programow.com)
+
+
+Tech I use:
+
+Django / React / AWS / Linux
+
+
+My Social Media:
+
+[Tech Instagram](https://www.instagram.com/programow/)
+[Youtube](https://www.youtube.com/channel/UCek2tj3c24axVvaV4IbFBUA)
+[Linkedin](https://www.linkedin.com/in/luan-henning-50109369/)
+[Personal Instagram](https://www.instagram.com/luanhenning56/)
