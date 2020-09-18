@@ -1,4 +1,4 @@
-Welcome, wonderful creature,to my humble tavern in this giant kingdom that is github.
+Welcome, wonderful creature, to my humble tavern in this giant kingdom that is github.
 
 As a teenager, I was going to be a rockstar. But when my great plan failed, I've decided to transition into software development.
 This one is working out.
