@@ -17,7 +17,7 @@ Django / React / AWS / Linux
 
 My Social Media:
 
-[Tech Instagram](https://www.instagram.com/programow/)
+[TechInstagram](https://www.instagram.com/programow/)
 [Youtube](https://www.youtube.com/channel/UCek2tj3c24axVvaV4IbFBUA)
 [Linkedin](https://www.linkedin.com/in/luan-henning-50109369/)
-[Personal Instagram](https://www.instagram.com/luanhenning56/)
+[PersonalInstagram](https://www.instagram.com/luanhenning56/)
