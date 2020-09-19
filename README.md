@@ -21,3 +21,10 @@ My Social Media:
 [Youtube](https://www.youtube.com/channel/UCek2tj3c24axVvaV4IbFBUA)
 [Linkedin](https://www.linkedin.com/in/luan-henning-50109369/)
 [PersonalInstagram](https://www.instagram.com/luanhenning56/)
+
+<a href="https://github.com/lgv-0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeydenJar&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/lgv-0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeydenJar&theme=material-palenight" />
+</a>
