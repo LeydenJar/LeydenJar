@@ -22,9 +22,9 @@ My Social Media:
 [Linkedin](https://www.linkedin.com/in/luan-henning-50109369/)
 [PersonalInstagram](https://www.instagram.com/luanhenning56/)
 
-<a href="https://github.com/lgv-0">
+<a href="https://github.com/LeydenJar">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeydenJar&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
 </a>
-<a href="https://github.com/lgv-0">
+<a href="https://github.com/LeydenJar">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeydenJar&theme=material-palenight" />
 </a>
